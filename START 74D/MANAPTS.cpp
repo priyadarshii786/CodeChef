@@ -1,5 +1,6 @@
 /*------18/01/2023------*/
 #include <bits/stdc++.h> //jai ganesh
+#include <iostream>
 using namespace std;
 int main()
 {
